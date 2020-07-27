@@ -6,7 +6,7 @@ using API.Errors;
 using API.Helpers;
 using AutoMapper;
 using Core.Entities;
-using Core.Interface;
+using Core.Interfaces;
 using Core.Specifications;
 using Infrastructure.Data;
 using Microsoft.AspNetCore.Http;
